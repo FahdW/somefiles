@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+  <title>education-24px-outline_grammar-check</title>
+  <desc>Created with Sketch.</desc>
+  <defs></defs>
+  <g id="Web-Flow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="View-Order---Ongoing-Order---Contacts---Desktop" transform="translate(-54.000000, -636.000000)" stroke="#2C75C9">
+      <g id="Timeline" transform="translate(20.000000, 403.000000)">
+        <g transform="translate(20.000000, 61.000000)" id="Title-Commitment-Issued">
+          <g transform="translate(0.000000, 160.000000)">
+            <g id="education-24px-outline_grammar-check" transform="translate(14.000000, 12.000000)">
+              <path d="M10.7391304,10.7391304 L16.3913043,10.7391304" id="Shape"></path>
+              <polyline id="Shape" points="20.9130435 14.1304348 20.9130435 25.4347826 0.565217391 25.4347826 0.565217391 0.565217391 20.9130435 0.565217391 20.9130435 7.34782609"></polyline>
+              <path d="M5.08695652,7.34782609 L11.8695652,7.34782609" id="Shape"></path>
+              <path d="M5.08695652,13 L11.1913043,13" id="Shape"></path>
+              <path d="M5.08695652,18.6521739 L16.3913043,18.6521739" id="Shape"></path>
+              <path d="M20.9130435,14.1304348 L25.4347826,18.6521739" id="Shape"></path>
+              <circle id="Oval" stroke-linecap="square" cx="16.3913043" cy="10.7391304" r="5.65217391"></circle>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

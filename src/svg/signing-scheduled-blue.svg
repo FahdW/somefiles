@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Signing Scheduled@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Web-Flow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="View-Order---Order-Placed---Messages---Desktop" transform="translate(-51.000000, -1149.000000)" stroke="#2C75C9">
+            <g id="Timeline" transform="translate(20.000000, 403.000000)">
+                <g transform="translate(20.000000, 61.000000)" id="Documents-Recorded">
+                    <g transform="translate(0.000000, 675.000000)">
+                        <g id="Signing-Scheduled" transform="translate(12.000000, 11.000000)">
+                            <polyline id="Shape" points="26 8.27272727 26 26 0 26 0 8.27272727"></polyline>
+                            <rect id="Rectangle-path" x="0" y="2.36363636" width="26" height="5.90909091"></rect>
+                            <path d="M13,0 L13,4.72727273" id="Shape"></path>
+                            <path d="M5.2,0 L5.2,4.72727273" id="Shape"></path>
+                            <path d="M21,0 L21,4.72727273" id="Shape"></path>
+                            <polyline id="Shape" points="7.09090909 17.7272727 10.6363636 21.2727273 18.9090909 13"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="30px" viewBox="0 0 28 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Transaction Closed Icon@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Web-Flow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="View-Order---Order-Placed---Messages---Desktop" transform="translate(-52.000000, -1148.000000)" stroke="#2C75C9">
+            <g id="Timeline" transform="translate(20.000000, 403.000000)">
+                <g transform="translate(20.000000, 61.000000)" id="Documents-Recorded">
+                    <g transform="translate(0.000000, 675.000000)">
+                        <g id="Transaction-Closed-Icon" transform="translate(12.000000, 9.000000)">
+                            <polygon id="Shape" points="13.8333333 4 3 13.5238095 3 29 11.5449943 29 15.5939636 29 24.6666667 29 24.6666667 13.5238095"></polygon>
+                            <polyline id="Shape" points="9 19.1112988 11.7732891 21.9230769 18.696366 15"></polyline>
+                            <g id="Roof" transform="translate(0.500000, 0.500000)">
+                                <path d="M0.0101972013,11.4841082 L13.2226917,0.0969816068" id="Line"></path>
+                                <path d="M13.3615438,11.4968076 L26.5981964,0.063011863" id="Line" transform="translate(19.979870, 5.779910) scale(-1, 1) translate(-19.979870, -5.779910) "></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

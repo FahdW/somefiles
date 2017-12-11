@@ -1,0 +1,20 @@
+<svg width="24px" height="30px" viewBox="0 0 24 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+  <desc>Created with Sketch.</desc>
+  <defs></defs>
+  <g id="Web-Flow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="View-Order---Ongoing-Order---Contacts---Desktop" transform="translate(-54.000000, -713.000000)" stroke="#FFFFFF">
+      <g id="Timeline" transform="translate(20.000000, 403.000000)">
+        <g transform="translate(20.000000, 61.000000)" id="Agent-Clear-to-Close">
+          <g transform="translate(1.000000, 240.000000)">
+            <g id="design-32px-outline_todo" transform="translate(13.500000, 10.000000)">
+              <polyline id="Shape" stroke-linecap="square" points="7.33857472 17.8402785 9.83111111 20.3674074 16.0533333 14.1451852"></polyline>
+              <path d="M14.1451852,3.19407407 C14.1451852,1.68190815 12.9195733,0.456296296 11.4074074,0.456296296 C9.89524148,0.456296296 8.66962963,1.68190815 8.66962963,3.19407407 L5.93185185,3.19407407 L5.93185185,6.84444444 L16.882963,6.84444444 L16.882963,3.19407407 L14.1451852,3.19407407 Z" id="Shape" stroke-linecap="square"></path>
+              <polyline id="Shape" points="19.6207407 4.10666667 22.3585185 4.10666667 22.3585185 27.8340741 0.456296296 27.8340741 0.456296296 4.10666667 3.19407407 4.10666667"></polyline>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

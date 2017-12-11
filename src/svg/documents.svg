@@ -1,0 +1,24 @@
+<svg width="28px" height="30px" viewBox="0 0 28 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+  <desc>Created with Sketch.</desc>
+  <defs></defs>
+  <g id="Web-Flow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="View-Order---Ongoing-Order---Contacts---Desktop" transform="translate(-52.000000, -1149.000000)" stroke="#fff">
+      <g id="Timeline" transform="translate(20.000000, 403.000000)">
+        <g transform="translate(20.000000, 61.000000)" id="Documents-Recorded">
+          <g transform="translate(0.000000, 675.000000)">
+            <g id="business-48px-outline_award-49" transform="translate(12.500000, 11.000000)">
+              <polyline id="Shape" points="17.3581866 26.4756098 0.304878049 26.4756098 0.304878049 0 21.0365854 0 21.0365854 9.53097693"></polyline>
+              <polyline id="Shape" points="25.695122 19.1968662 25.695122 27.695122 22.0365854 26.606948 18.3780488 27.695122 18.3780488 19"></polyline>
+              <path d="M22.0365854,20.597561 C24.7306573,20.597561 26.9146341,18.4135841 26.9146341,15.7195122 C26.9146341,13.0254402 24.7306573,10.8414634 22.0365854,10.8414634 C19.3425134,10.8414634 17.1585366,13.0254402 17.1585366,15.7195122 C17.1585366,18.4135841 19.3425134,20.597561 22.0365854,20.597561 Z" id="Oval" stroke-linecap="square"></path>
+              <path d="M5.18292683,10.402439 L16.1585366,10.402439" id="Shape" stroke-linecap="square"></path>
+              <path d="M5.18292683,5.40243902 L16.1585366,5.40243902" id="Shape" stroke-linecap="square"></path>
+              <path d="M5.18292683,15.2804878 L12.5,15.2804878" id="Shape" stroke-linecap="square"></path>
+              <path d="M5.18292683,20.1585366 L12.5,20.1585366" id="Shape" stroke-linecap="square"></path>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+//buiild in variations for each of them. Not thematic but more logical IE. Delete button vs another one
+//goal is to remove design choices from front end at a component level and have everything provided for them
+
+const Button = props => {
+    // const styles = !props.style ? defaultStyles : props.style;
+    const classes = !props.className ? defaultStyles : props.className;
+    return (
+        <MuiButton className {...props}>{props.children}</MuiButton>
+    );
+}
+
+// export default Button;
+export default Button;
